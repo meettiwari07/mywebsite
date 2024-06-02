@@ -1,0 +1,36 @@
+.myslider {
+    
+  width: 90%;
+  
+  
+}
+.txt {
+  position: absolute;
+  top: 100px;
+  bottom: 50px;
+  left: 100px;
+  margin-left: 10px;
+  margin-right: auto;
+  
+  margin-bottom: 100%;
+}
+
+.frm {
+  position: absolute;
+  top: 400px;
+  left: 70px;
+  width:50%;
+  display: flex ;
+  margin-right: auto;
+  
+}
+
+
+
+.photo {
+  height: 450px;
+  width: 400px;
+  display: flex;
+  margin-left: auto;
+  
+}
